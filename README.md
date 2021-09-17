@@ -7,7 +7,7 @@ Nightly Flatpak builds for [Leafish](https://github.com/Lea-fish/Leafish).
 Make sure to have the [Flathub remote](https://flatpak.org/setup/) added.
 
 ```
-flatpak remote-add leafish oci+https://theevilskeleton.github.io/leafish-flatpak-nightly
+flatpak remote-add leafish oci+https://Lea-fish.github.io/leafish-flatpak-nightly
 flatpak install leafish com.github.Lea_fish.Leafish
 ```
 
